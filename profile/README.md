@@ -10,6 +10,8 @@ Contributions are welcome — bug reports, fixes, and improvements via GitHub Is
 
 Organisations that use MuTMS commercially are encouraged to consider becoming a partner. Partners support the project financially, help shape its direction and priorities, and receive recognition on the project website. Contact [support@mutms.com](mailto:support@mutms.com) for details.
 
+For commercial support, see [www.mutms.com/#support](https://www.mutms.com/#support).
+
 ## Plugins
 
 - [Multi-tenancy](https://github.com/mutms/moodle-tool_mutenancy) — Partition a single Moodle instance into isolated tenants, each with their own users, courses, and settings.
