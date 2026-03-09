@@ -6,7 +6,7 @@ Releases are synchronised with official Moodle releases, ensuring security fixes
 
 ## Contributing & partnerships
 
-Contributions are welcome — bug reports, fixes, and improvements via GitHub Issues and pull requests.
+Contributions are welcome — bug reports, fixes, and improvements via GitHub Issues and pull requests. Feedback can also be left in the Moodle plugins database for those who prefer not to create a GitHub account.
 
 Organisations that use MuTMS commercially are encouraged to consider becoming a partner. Partners support the project financially, help shape its direction and priorities, and receive recognition on the project website. Contact [support@mutms.com](mailto:support@mutms.com) for details.
 
