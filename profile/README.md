@@ -4,7 +4,11 @@ All components work together as a coherent system but can also be used independe
 
 Releases are synchronised with official Moodle releases, ensuring security fixes and new features are available without delay. Plugin version numbers follow Moodle's own versioning scheme. Documentation is available at [docs.mutms.org](https://docs.mutms.org/).
 
-For commercial support, see [www.mutms.com](https://www.mutms.com/).
+## Contributing & partnerships
+
+Contributions are welcome — bug reports, fixes, and improvements via GitHub Issues and pull requests.
+
+Organisations that use MuTMS commercially are encouraged to consider becoming a partner. Partners support the project financially and receive recognition on the project website. If your organisation relies on MuTMS, partnering helps accelerate development. Contact [support@mutms.com](mailto:support@mutms.com) for details.
 
 ## Plugins
 
