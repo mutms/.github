@@ -8,7 +8,7 @@ Releases are synchronised with official Moodle releases, ensuring security fixes
 
 Contributions are welcome — bug reports, fixes, and improvements via GitHub Issues and pull requests.
 
-Organisations that use MuTMS commercially are encouraged to consider becoming a partner. Partners support the project financially and receive recognition on the project website. If your organisation relies on MuTMS, partnering helps accelerate development. Contact [support@mutms.com](mailto:support@mutms.com) for details.
+Organisations that use MuTMS commercially are encouraged to consider becoming a partner. Partners support the project financially, help shape its direction and priorities, and receive recognition on the project website. Contact [support@mutms.com](mailto:support@mutms.com) for details.
 
 ## Plugins
 
