@@ -1,6 +1,4 @@
-# MuTMS (Multi-Tenant Management System)
-
-**MuTMS** is a GPL 3.0-licensed suite of plugins for Moodle™ LMS, bringing multi-tenancy, structured learning programs, certifications, training credits, and more to standard Moodle installations — with no commercial restrictions and no vendor lock-in.
+**MuTMS** (Multi-Tenant Management System) is a GPL 3.0-licensed suite of plugins for Moodle™ LMS, bringing multi-tenancy, structured learning programs, certifications, training credits, and more to standard Moodle installations — with no commercial restrictions and no vendor lock-in.
 
 All components work together as a coherent system but can also be used independently. They are all compatible with Moodle 4.5.x, 5.0.x and 5.1.x.
 
