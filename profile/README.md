@@ -4,7 +4,7 @@ All components work together as a coherent system but can also be used independe
 
 Releases are synchronised with official Moodle releases, ensuring security fixes and new features are available without delay. Plugin version numbers follow Moodle's own versioning scheme. Documentation is available at [docs.mutms.org](https://docs.mutms.org/).
 
-## Contributing & partnerships
+## Contributing
 
 Contributions are welcome — bug reports, fixes, and improvements via GitHub Issues and pull requests. Feedback can also be left in the Moodle plugins database for those who prefer not to create a GitHub account.
 
