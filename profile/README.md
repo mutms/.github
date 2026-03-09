@@ -4,7 +4,9 @@
 
 All components work together as a coherent system but can also be used independently. They are all compatible with Moodle 4.5.x, 5.0.x and 5.1.x.
 
-Releases are synchronised with official Moodle releases, ensuring security fixes and new features are available without delay. Plugin version numbers follow Moodle's own versioning scheme.
+Releases are synchronised with official Moodle releases, ensuring security fixes and new features are available without delay. Plugin version numbers follow Moodle's own versioning scheme. Full documentation is available at [docs.mutms.org](https://docs.mutms.org/).
+
+For commercial support, see [www.mutms.com](https://www.mutms.com/).
 
 ## Plugins
 
