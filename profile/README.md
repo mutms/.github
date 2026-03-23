@@ -23,3 +23,12 @@ For support options, see [www.mutms.com/#support](https://www.mutms.com/#support
 - [Compromised password blocking](https://github.com/mutms/moodle-tool_mupwned) — Blocks known breached passwords via HaveIBeenPwned, using k-Anonymity so passwords never leave Moodle.
 - [Privileged sessions](https://github.com/mutms/moodle-tool_musudo) — Sudo-style privilege escalation for admins, reducing risk during routine work.
 - [Log-in-as via Incognito](https://github.com/mutms/moodle-tool_muloginas) — Opens impersonated sessions in a new Incognito window, keeping the admin session active.
+
+## Road map
+
+- Universal catalogue
+- Improved cohorts
+- Seminar activity
+- Approval workflows
+- Core security hardening
+
