@@ -9,7 +9,7 @@ Contributions are welcome — bug reports, fixes, and improvements via GitHub Is
 
 Because MuTMS is standard Moodle plugin code published under GPL-3.0, any Moodle administrator, developer, or Moodle Partner familiar with the platform can provide support, maintenance, and customisation without any dependency on the MuTMS project itself.
 
-For support options, see [www.mutms.org/#support](https://www.mutms.org/#support).
+For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 
 ## Plugins
 
