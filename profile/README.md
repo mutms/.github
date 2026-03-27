@@ -24,7 +24,7 @@ For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 - [Privileged sessions](https://github.com/mutms/moodle-tool_musudo) — Sudo-style privilege escalation for admins, reducing risk during routine work.
 - [Log-in-as via Incognito](https://github.com/mutms/moodle-tool_muloginas) — Opens impersonated sessions in a new Incognito window, keeping the admin session active.
 
-## Road map
+## Roadmap
 
 - Universal catalogue
 - Improved cohorts
