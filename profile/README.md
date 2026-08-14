@@ -5,7 +5,7 @@ All components work together as a coherent system but can also be used independe
 Releases are synchronised with official Moodle releases, ensuring security fixes and new features are available without delay. Plugin version numbers follow Moodle's own versioning scheme. Documentation is available at [docs.mutms.org](https://docs.mutms.org/).
 
 ## Contributing
-Contributions are welcome — bug reports, fixes, and improvements via GitHub Issues and pull requests. Feedback can also be left in the Moodle plugins database for those who prefer not to create a GitHub account.
+Contributions are welcome — bug reports, fixes, and improvements via GitHub Issues and pull requests.
 
 Because MuTMS is standard Moodle plugin code published under GPL-3.0, any Moodle administrator, developer, or Moodle Partner familiar with the platform can provide support, maintenance, and customisation without any dependency on the MuTMS project itself.
 
@@ -31,4 +31,5 @@ For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 - Seminar activity
 - Approval workflows
 - Core security hardening
+
 
