@@ -34,6 +34,6 @@ For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 
 ## Moodle Marketplace
 
-Great news — MuTMS is now officially recognised by Moodle as directly competing with Moodle Workplace, which under clause 2.1 of the [Moodle Marketplace Terms](https://moodle.atlassian.net/wiki/external/NzZlYWExYTIzZmU5NDJiYzgwODJjNmU1MjhiNDQ0YjQ) is exactly why it cannot be listed there.
+Great news — MuTMS is now officially recognised by Moodle HQ as directly competing with Moodle Workplace, which under clause 2.1 of the [Moodle Marketplace Terms](https://moodle.atlassian.net/wiki/external/NzZlYWExYTIzZmU5NDJiYzgwODJjNmU1MjhiNDQ0YjQ) is exactly why it cannot be listed there.
 
 We consider that the best review we have ever had: a GPL-3.0 community project delivering what a commercial product is sold for. Nothing changes for you — install straight from the repositories above and see [docs.mutms.org](https://docs.mutms.org/), just note that Moodle stops serving update notifications for non-migrated plugins after **31 August 2026**.
