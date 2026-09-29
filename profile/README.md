@@ -34,6 +34,11 @@ For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 - Approval workflows
 - Core security hardening
 
+## Compatibility
+
+- Windows PHP binaries are not supported - use WSL or HyperV on Windows instead
+- MS SQL Server is not supported, 5.3 is not be compatible at all - use PostgreSQL or MariaDB (MySQL from Oracle is not recommended)
+
 ## Moodle Marketplace
 
 Great news — MuTMS is now officially recognised by Moodle HQ as directly competing with Moodle Workplace, which under clause 2.1 of the [Moodle Marketplace Terms](https://moodle.atlassian.net/wiki/external/NzZlYWExYTIzZmU5NDJiYzgwODJjNmU1MjhiNDQ0YjQ) is exactly why it cannot be listed there.
