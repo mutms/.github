@@ -34,6 +34,10 @@ For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 - Approval workflows
 - Core security hardening
 
+## Demo
+
+You can use [mdl-demo](https://github.com/mutms/mdl-demo) to quickly set up a local test site for any version of Moodle or MuTMS.
+
 ## Compatibility
 
 - Windows PHP binaries are not supported - use WSL or HyperV on Windows instead
