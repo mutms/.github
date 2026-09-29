@@ -38,10 +38,11 @@ For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 
 You can use [mdl-demo](https://github.com/mutms/mdl-demo) to quickly set up a local test site for any version of Moodle or MuTMS.
 
-## Compatibility
+## Requirements
 
-- Windows PHP binaries are not supported - use WSL or HyperV on Windows instead
-- MS SQL Server is not supported, 5.3 is not be compatible at all - use PostgreSQL or MariaDB (MySQL from Oracle is not recommended)
+* Supported databases: PostgreSQL, MariaDB, and MySQL
+* MS SQL Server is not compatible
+* PHP for Windows is not supported — use a Linux VM (WSL or Hyper-V) if necessary
 
 ## Moodle Marketplace
 
