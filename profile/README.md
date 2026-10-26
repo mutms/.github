@@ -27,10 +27,11 @@ For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 ## Roadmap
 
 ### 5.3 - November 2027
+- New forms engine
 - [Universal catalogue](https://github.com/mutms/moodle-tool_mucatalog)
 - [SAML auth plugin](https://github.com/mutms/moodle-auth_musaml)
 - [Markdown slideshow deck](https://github.com/mutms/moodle-mod_mudeck)
-- Improved cohorts management
+- Improved cohort management
 - User signup plugin
 
 ### 6.x
