@@ -31,7 +31,8 @@ For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 - [Universal catalogue](https://github.com/mutms/moodle-tool_mucatalog)
 - [SAML auth plugin](https://github.com/mutms/moodle-auth_musaml)
 - [Markdown slideshow deck](https://github.com/mutms/moodle-mod_mudeck)
-- Improved cohort management
+- [Improved cohort management](https://github.com/mutms/moodle-tool_mucohort)
+- Cloning of programs with courses
 - User signup plugin
 
 ### 6.x
