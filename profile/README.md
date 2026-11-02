@@ -36,9 +36,11 @@ For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 - Czech language (backported)
 - German language (preview only)
 
-### 6.x
+### 5.3 - late 2027
 - User signup plugin
 - Seminar activity
+
+### 6.x
 - Approval workflows
 - Core security hardening
 
