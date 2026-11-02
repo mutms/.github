@@ -26,7 +26,7 @@ For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 
 ## Roadmap
 
-### 5.3 - November 2027
+### 5.3.0 - November 2027
 - New forms engine
 - [Universal catalogue](https://github.com/mutms/moodle-tool_mucatalog)
 - [SAML auth plugin](https://github.com/mutms/moodle-auth_musaml)
@@ -36,7 +36,7 @@ For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 - Czech language (backported)
 - German language (preview only)
 
-### 5.3 - late 2027
+### 5.3.1 - December 2027
 - User signup plugin
 - Seminar activity
 
