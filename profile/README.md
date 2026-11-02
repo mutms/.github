@@ -33,9 +33,11 @@ For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 - [Markdown slideshow deck](https://github.com/mutms/moodle-mod_mudeck)
 - [Improved cohort management](https://github.com/mutms/moodle-tool_mucohort)
 - Cloning of programs with courses
-- User signup plugin
+- Czech language (backported)
+- German language (preview only)
 
 ### 6.x
+- User signup plugin
 - Seminar activity
 - Approval workflows
 - Core security hardening
