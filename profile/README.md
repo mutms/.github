@@ -38,6 +38,7 @@ For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 
 ### 5.3.2 - December 2027
 - Supervisor and Teams upload and sync with external database
+- Web services for Supervisor and Teams
 - User signup plugin
 - Seminar activity
 
