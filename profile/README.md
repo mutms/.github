@@ -32,7 +32,7 @@ For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 - [SAML auth plugin](https://github.com/mutms/moodle-auth_musaml)
 - [Markdown slideshow deck](https://github.com/mutms/moodle-mod_mudeck)
 - [Improved cohort management](https://github.com/mutms/moodle-tool_mucohort)
-- Cloning of programs with courses
+- Duplication of programs with courses
 - Czech, German, Italian, Spanish, French and Portuguese translations (preview only, backported to all branches)
 
 ### 5.3.2 - December 2027
