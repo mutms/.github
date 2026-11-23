@@ -26,7 +26,7 @@ For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 
 ## Roadmap
 
-### 5.3.1 - November 2027
+### First stable 5.3.x release - December 2026
 - New forms engine
 - [Universal catalogue](https://github.com/mutms/moodle-tool_mucatalog)
 - [SAML auth plugin](https://github.com/mutms/moodle-auth_musaml)
@@ -34,18 +34,16 @@ For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 - [Improved cohort management](https://github.com/mutms/moodle-tool_mucohort)
 - Duplication of programs with courses
 - Czech and Italian translations
-- preview of German, Spanish, French and Portuguese translations
-- Visual report builder improvements
+- Preview of German, Spanish, French and Portuguese translations
+- New report builder plugin
 
-### 5.3.2 - December 2027
-- Supervisor and Teams upload and sync with external database
-- Web services for Supervisor and Teams
-
-### 6.x
+### Future plans
 - User signup plugin
 - Seminar activity
 - Approval workflows
 - Core security hardening
+- Supervisor and Teams upload and sync with external database
+- Web services for Supervisor and Teams
 
 ## Demo
 
