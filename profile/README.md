@@ -28,14 +28,15 @@ For support options, see [mutms.org/#support](https://www.mutms.org/#support).
 
 ### First stable 5.3.x release - December 2026
 - New forms engine
+- New reports engine
+- Czech and Italian translations
+- Preview of German, Spanish, French and Portuguese translations
 - [Universal catalogue](https://github.com/mutms/moodle-tool_mucatalog)
 - [SAML auth plugin](https://github.com/mutms/moodle-auth_musaml)
 - [Markdown slideshow deck](https://github.com/mutms/moodle-mod_mudeck)
 - [Improved cohort management](https://github.com/mutms/moodle-tool_mucohort)
+- [Advanced report builder](https://github.com/mutms/moodle-tool_mureport)
 - Duplication of programs with courses
-- Czech and Italian translations
-- Preview of German, Spanish, French and Portuguese translations
-- New report builder plugin
 
 ### Future plans
 - User signup plugin
